@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-# Learning Journal - October 2025
+# learning-journal-geekyrahul — Learning Journal (October 2025)
 
-Welcome to my monthly learning journal focused on AI/ML and software engineering practices.
+Welcome to my monthly learning journal where I explore AI/ML and software engineering practices.
 
 ## 📚 Projects
 
@@ -10,7 +9,7 @@ Welcome to my monthly learning journal focused on AI/ML and software engineering
 - Technologies: Python, Wandb
 - Status: In Progress
 
-### FineTuningPractice  
+### FineTuningPractice
 - Focus: Fine-tuning transformers and deep learning models
 - Technologies: Python, NumPy, Pandas, Scikit-learn
 - Includes: Research paper in LaTeX format
@@ -22,19 +21,19 @@ Welcome to my monthly learning journal focused on AI/ML and software engineering
 2. Create a virtual environment: `python -m venv venv`
 3. Activate it: `venv\Scripts\activate` (Windows) or `source venv/bin/activate` (Unix)
 4. Install dependencies for each project:
-   - Navigate to project directory
-   - Run `pip install -e .` or `uv sync`
+   - Navigate to the project directory
+   - Run `pip install -e .`
 
 ## 🔐 Environment Variables
 
-Create your own `.env` file with the required API keys (see `.env.example` if provided).
+Create a `.env` file with your API keys (if required).
 
 ## 📖 Learning Goals
 
-- [ ] Master LLM engineering concepts
-- [ ] Practice fine-tuning techniques
-- [ ] Document learning journey
-- [ ] Build practical AI applications
+- Master LLM engineering concepts
+- Practice fine-tuning techniques
+- Document learning journey
+- Build practical AI applications
 
 ## 📅 Timeline
 
@@ -43,4 +42,4 @@ Create your own `.env` file with the required API keys (see `.env.example` if pr
 **Focus Areas**: LLM Engineering, Fine-tuning, Research
 
 ---
-*This is a personal learning repository. Feel free to explore and learn along!*
+This is a personal learning repository. Feel free to explore and learn along!
